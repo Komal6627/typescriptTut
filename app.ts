@@ -25,8 +25,8 @@
 // console.log(a);
 
 //Boolean
-// let a:boolean=true;
-// console.log(a);
+let a:boolean=true;
+console.log(a);
 
 
 
