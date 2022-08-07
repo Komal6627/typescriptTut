@@ -1,7 +1,7 @@
-function cal() {
-    return 10 + 10;
+function cal(a, b) {
+    return b ? a + b : a;
 }
-console.log(cal());
+console.log(cal(10, 20));
 function hello() {
     return "Hello";
 }
