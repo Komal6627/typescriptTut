@@ -9,11 +9,11 @@ enum Days{
 // console.log(whichDay);
 
 
-function whichDay(day:Days) {
-    return day
-}
+// function whichDay(day:Days) {
+//     return day
+// }
 
-console.log(whichDay(Days.tue));
+//console.log(whichDay(Days.tue));
 
 
 
